@@ -1,0 +1,12 @@
+Module 6 Quiz
+
+False
+True
+False
+False
+5. False
+c. Relationships	
+d. rectangle	
+b. object relationship diagram	
+c. state	
+10. d. methods	

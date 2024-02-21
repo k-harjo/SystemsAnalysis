@@ -1,0 +1,10 @@
+False
+False
+False
+False
+5. True
+b. validity	
+b. Leveling	
+a. how a system transforms input data into useful information	
+c. the four-model approach	
+10. a. ensures that the input and output data flows of the parent data flow diagram (DFD) are maintained on the child data flow diagram (DFD)	

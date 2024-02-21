@@ -1,0 +1,89 @@
+Pre-course Assessment
+
+True
+False
+True
+True
+5. True
+False
+True
+True
+True
+10. False
+False
+True
+False
+a. Modeling
+15. b, top-down approach
+a. process descriptions
+a. Bandwidth
+b. detail report
+b. security policy
+20. d. histogram
+a. vertical application
+c. creating a new report for a user
+c. code
+a. methods
+25. b. Gantt Chart
+
+
+
+Module 1 Quiz
+
+False
+False
+False
+True
+5. True
+c. B2C
+b. BPMN
+d. structured analysis
+a. systems analyst
+10. a. include groupware programs that enable users to share data, collaborate on projects, and work in teams
+
+
+
+Module 1 Questions
+
+1. elopment, maintenance, and use of computer systems, software, and networks for the processing and distribution of data.
+
+2. id communications can help increase productivity, allow for better business decision-making and ease a company's expansion into new territories or countries.
+
+3. They provide better business to the consumer. Consumers can become drivers if they want to, and can have their own schedule vs having to go through a whole job interview process and be told certain hours to work in a taxicab business.
+
+4. A store like Home Depot's business profile would include the normal contact information as usual, but then would have history "The Home Depot's proposition was to build home-improvement superstores.
+
+5. enterprise computing systems
+transaction processing systems
+business support systems
+knowledge management systems
+user productivity systems
+digital assistants
+systems integration
+
+6. Top Managers - focus on the overall business enterprise and use IT to set the company's course and direction.
+Middle Managers and Knowledge Workers - focus on a shorter time scale and are more detailed to oversee day-to-day operations.
+Supervisors and Team Leaders - coordinate tasks and people, and make sure resources to their environment are available
+Operational Employees - perform their jobs and make decisions that were from their supervisors.
+
+7. Structured System - top down approach, this system if great if you can acheive each module and they work together.
+
+Object Oriented System - relationship based system and works well if all objects can communicate with each other
+
+Agile System - designing, planning, and coding. This system is very flexible.
+
+8. application lifecycle management (ALM)
+product life cycle management
+integrated development environments
+computer aided software engineering
+
+9. Application Development - write software programs for use across mobile operating systems.
+Systems Support and Security - systems support and security involves three main concerns: User expectations, System performance, Security requirements.
+User Support - provide technical assistance to computer users.
+Database Admin - create or organize systems to store and secure a variety of data.
+Network Admin - install, configure, and manage computer infrastructure, such as routers, switches, and cables, that support an organization's computer networks.
+Web Support -  covers anything that is responsible for creating your website, such as the coding language or web server.
+Quality Assurance - establishes and maintains set requirements for developing or manufacturing reliable products.
+
+
+10. A system analyst needs good communication, business knowledge, critical thinking, and higher-education skills.

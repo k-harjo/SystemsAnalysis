@@ -1,0 +1,12 @@
+Module 8 Quiz
+
+False
+False
+False
+True
+5. True
+b. user-centered
+d. garbage in, garbage out (GIGO)
+a. exception report
+c. output control
+10. b. character-based reports	
